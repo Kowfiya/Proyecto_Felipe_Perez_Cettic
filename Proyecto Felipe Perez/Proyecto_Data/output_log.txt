@@ -1,0 +1,61 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\felip\Documents\Proyectos unity\Proyecto Felipe Perez\Proyecto_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\felip\Documents\Proyectos unity\Proyecto Felipe Perez\Proyecto_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\felip\Documents\Proyectos unity\Proyecto Felipe Perez\Proyecto_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\felip\Documents\Proyectos unity\Proyecto Felipe Perez\Proyecto_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\felip\Documents\Proyectos unity\Proyecto Felipe Perez\Proyecto_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\felip\Documents\Proyectos unity\Proyecto Felipe Perez\Proyecto_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\felip\Documents\Proyectos unity\Proyecto Felipe Perez\Proyecto_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\felip\Documents\Proyectos unity\Proyecto Felipe Perez\Proyecto_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\felip\Documents\Proyectos unity\Proyecto Felipe Perez\Proyecto_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\felip\Documents\Proyectos unity\Proyecto Felipe Perez\Proyecto_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\felip\Documents\Proyectos unity\Proyecto Felipe Perez\Proyecto_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\felip\Documents\Proyectos unity\Proyecto Felipe Perez\Proyecto_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\felip\Documents\Proyectos unity\Proyecto Felipe Perez\Proyecto_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\felip\Documents\Proyectos unity\Proyecto Felipe Perez\Proyecto_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Users\felip\Documents\Proyectos unity\Proyecto Felipe Perez\Proyecto_Data\Managed\LitJson.dll (this message is harmless)
+Loading C:\Users\felip\Documents\Proyectos unity\Proyecto Felipe Perez\Proyecto_Data\Managed\LitJson.dll into Unity Child Domain
+Platform assembly: C:\Users\felip\Documents\Proyectos unity\Proyecto Felipe Perez\Proyecto_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\felip\Documents\Proyectos unity\Proyecto Felipe Perez\Proyecto_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.034 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1758)
+
+UnloadTime: 0.862397 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 26e8 -> priority: 1 
+  Thread -> id: 3f0c -> priority: 1 
+[{"0":"736","ID":"736","1":"perro","nombre":"perro","2":"10","puntos":"10"},{"0":"737","ID":"737","1":"felipedos","nombre":"felipedos","2":"50","puntos":"50"},{"0":"738","ID":"738","1":"perro","nombre":"perro","2":"120","puntos":"120"},{"0":"739","ID":"739","1":"perro","nombre":"perro","2":"60","puntos":"60"}]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+correcto,perro
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.414073 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 984.
+Total: 0.479678 ms (FindLiveObjects: 0.067519 ms CreateObjectMapping: 0.021439 ms MarkObjects: 0.383678 ms  DeleteObjects: 0.006719 ms)
+
+[{"0":"736","ID":"736","1":"perro","nombre":"perro","2":"10","puntos":"10"},{"0":"737","ID":"737","1":"felipedos","nombre":"felipedos","2":"50","puntos":"50"},{"0":"738","ID":"738","1":"perro","nombre":"perro","2":"120","puntos":"120"},{"0":"739","ID":"739","1":"perro","nombre":"perro","2":"60","puntos":"60"}]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

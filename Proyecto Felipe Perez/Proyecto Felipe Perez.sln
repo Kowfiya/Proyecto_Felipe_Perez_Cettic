@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto Felipe Perez", "Proyecto Felipe Perez.csproj", "{98C781EA-7779-5945-8AB4-F02855E07A1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto Felipe Perez.Plugins", "Proyecto Felipe Perez.Plugins.csproj", "{56F17954-C6AA-5BB4-4B50-C59A0C657182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98C781EA-7779-5945-8AB4-F02855E07A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C781EA-7779-5945-8AB4-F02855E07A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C781EA-7779-5945-8AB4-F02855E07A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C781EA-7779-5945-8AB4-F02855E07A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F17954-C6AA-5BB4-4B50-C59A0C657182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F17954-C6AA-5BB4-4B50-C59A0C657182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F17954-C6AA-5BB4-4B50-C59A0C657182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F17954-C6AA-5BB4-4B50-C59A0C657182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
